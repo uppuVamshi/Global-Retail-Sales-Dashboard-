@@ -114,14 +114,18 @@ The dashboard is designed to:
 - Hands-on experience with the end-to-end Power BI workflow  
 - Strong understanding of data modeling and DAX calculations  
 - Ability to convert raw data into actionable business insights  
-- Improved data storytelling and dashboard design skills  
+- Improved data storytelling and dashboard design skills
 
-## Dashboard Screenshot / Image 1 
-<img width="1339" height="757" alt="image" src="https://github.com/user-attachments/assets/2e7565fa-56a5-4fde-9abe-49e4cee1e180" />
-##  Image 2
-<img width="1335" height="753" alt="image" src="https://github.com/user-attachments/assets/a04f31b6-b605-4f59-9a05-ce71f80e9876" />
-## Image 3
-<img width="1338" height="754" alt="image" src="https://github.com/user-attachments/assets/366259d7-e17e-478a-8b1e-0d6cc8e5615c" />
+---
+
+## Dashboard Screenshot 
+## Overview Image 
+<img width="1334" height="754" alt="image" src="https://github.com/user-attachments/assets/f0282bed-0dc4-4b4d-aae0-1df0686fe78d" />
+## Sales by Product Analysis 
+<img width="1339" height="755" alt="image" src="https://github.com/user-attachments/assets/03be0000-908e-45ed-828e-196f92542ca0" />
+## Regional & Customer Insights
+<img width="1335" height="751" alt="image" src="https://github.com/user-attachments/assets/1d838297-6520-40e2-bc1c-9291c3675722" />
+
 
 
 
